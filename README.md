@@ -9,6 +9,7 @@ Steps to create managment website for Pinch A Penny #Store 53
 
 1) Create repository
 2) Add free HTML template to repository
-3) Add domain
-4) Submit changes
-5) Modify template
+3) Set up Vs code to modify HTML code
+4) Add domain
+5) Submit changes
+6) Modify template
